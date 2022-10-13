@@ -2,10 +2,10 @@
 
 - 😔 18 anos
 - 👨‍🎓 Cursando 3 ano do ensino medio.
-- 📚 Estudando Front end/ js, code.js, php, rubby. (Sim muitas coisas.)
+- 📚 Estudando Front end/ js, code.js, php, rubby. (Sim muitas coisas)
 - ⭕ Objetivo me torna programador Front end ou de software.
 - ☕ Sempre tentando aprender maximo que der atre fica com dor de cabeça.
-- 
+- 🧁 Sempre criando algo novo.
 
 
 <div align="center">

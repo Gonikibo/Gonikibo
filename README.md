@@ -4,7 +4,7 @@
 - 👨‍🎓 Cursando 3 ano do ensino medio.
 - 📚 Estudando Front end/ js, code.js, php, rubby. (Sim muitas coisas.)
 - ⭕ Objetivo me torna programador Front end ou de software.
-- 
+
 
 <div align="center">
   <a href="https://github.com/Gonikibo">

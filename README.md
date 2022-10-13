@@ -1,10 +1,5 @@
 ## Oie sou o Goni☕
 
-
-**Gonikibo/Gonikibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 😔 18 anos
 - 👨‍🎓 Cursando 3 ano do ensino medio.
 - 📚 Estudando Front end/ js, code.js, php, rubby. (Sim muitas coisas.)
